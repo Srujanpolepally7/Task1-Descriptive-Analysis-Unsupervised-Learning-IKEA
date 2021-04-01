@@ -2,8 +2,9 @@
 The task1 is to discover some new places here in Sweden that may be suitable for IKEA department stores.By Using the k-means method.
 
 
-**IKEA DATA: The IKEA dataset contains several columns.**They are
+**IKEA DATA: The IKEA dataset contains several columns.**
 
+They are:
 Kommun_code: The IKEA stores consist of different types of code and every
 store contains one kommun code
 Year : The IKEA data is contains 2010 year data
